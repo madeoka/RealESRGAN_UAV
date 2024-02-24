@@ -1,5 +1,4 @@
 # RealESRGAN_UAV
-<br />
 Requirement:<br />
 Python 3.11 version<br />
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 cpuonly -c pytorch<br />
