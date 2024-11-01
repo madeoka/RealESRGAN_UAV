@@ -12,4 +12,4 @@ pip install huggingface-hub<br />
 *Can download on https://github.com/cgohlke/geospatial-wheels/releases/tag/v2024.2.18
 <br />
 <br />
-References and adopted from: https://github.com/ai-forever/Real-ESRGAN
+References and adapted from: https://github.com/ai-forever/Real-ESRGAN
