@@ -1,6 +1,6 @@
 # RealESRGAN_UAV CPU only version
 ## Requirement:<br />
-Python 3.11 version<br />
+Anaconda with Python 3.11 version<br />
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 cpuonly -c pytorch<br />
 pip install "numpy<1.24"<br />
 conda install rasterio<br />
